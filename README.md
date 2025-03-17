@@ -19,9 +19,10 @@ Aquí tienes algunos iconos representando las herramientas y lenguajes con los q
 **Lenguajes de Programación**  
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) **HTML5**
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) **CSS3**
+- ![tailwind](https://img.shields.io/badge/tailwind-1572B6?style=flat-square&logo=tailwind&logoColor=white) **tailwind**
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **JavaScript**
 - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) **TypeScript**
-- ![C#](https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=c-sharp&logoColor=white) **C#**
+
 
 **Herramientas & Frameworks**  
 - ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) **React.js**

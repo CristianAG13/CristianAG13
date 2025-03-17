@@ -40,13 +40,13 @@ No dudes en contactarme para colaborar, aprender juntos o compartir conocimiento
 
 ### 📊 **Estadísticas de GitHub**  
 
-  ![Cristian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu_usuario_github&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+  ![Cristian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CristianAG13&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
 ### 📌 **Lenguajes Más Usados**  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario_github&langs_count=10&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianAG13_github&langs_count=10&layout=compact&theme=radical)
 
 - **JavaScript** 10.57%  
 - **C#** 7.35%  

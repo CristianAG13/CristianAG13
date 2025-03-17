@@ -40,17 +40,14 @@ No dudes en contactarme para colaborar, aprender juntos o compartir conocimiento
 
 ### 📊 **Estadísticas de GitHub**  
 
-- **Estrellas Totales**: 0 🌟  
-- **Commits (2025)**: 168 ✍️  
-- **Pull Requests**: 62 🔄  
-- **Problemas Abiertos**: 0 🧩  
-- **Contribuciones (último año)**: 0 📈
+  ![Cristian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu_usuario_github&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
 ### 📌 **Lenguajes Más Usados**  
 
-- **TypeScript** 80.08%  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario_github&langs_count=10&layout=compact&theme=radical)
+
 - **JavaScript** 10.57%  
 - **C#** 7.35%  
 - **HTML** 0.41%

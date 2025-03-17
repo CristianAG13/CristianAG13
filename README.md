@@ -46,7 +46,7 @@ No dudes en contactarme para colaborar, aprender juntos o compartir conocimiento
 
 ### 📌 **Lenguajes Más Usados**  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianAG13_github&langs_count=10&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianAG13github&langs_count=10&layout=compact&theme=radical)
 
 - **JavaScript** 10.57%  
 - **C#** 7.35%  

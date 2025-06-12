@@ -35,8 +35,6 @@ Aquí tienes algunos iconos representando las herramientas y lenguajes con los q
 
 ---
 
----
-
 ### 🤖 **Inteligencia Artificial y Herramientas Modernas**  
 Integro herramientas impulsadas por **IA** en mi flujo de trabajo para potenciar mi productividad y creatividad:
 

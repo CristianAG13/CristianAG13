@@ -35,6 +35,20 @@ Aquí tienes algunos iconos representando las herramientas y lenguajes con los q
 
 ---
 
+---
+
+### 🤖 **Inteligencia Artificial y Herramientas Modernas**  
+Integro herramientas impulsadas por **IA** en mi flujo de trabajo para potenciar mi productividad y creatividad:
+
+- ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=flat-square&logo=github&logoColor=white)  
+  Utilizo **GitHub Copilot** para autocompletar código, explorar nuevas sintaxis y optimizar soluciones complejas en menos tiempo.
+
+- ![ChatGPT](https://img.shields.io/badge/ChatGPT-1A1A1A?style=flat-square&logo=openai&logoColor=white)  
+  Me apoyo en **ChatGPT** para resolver problemas de programación, generar ideas de diseño UX/UI, documentar proyectos y mejorar la calidad de mi código.
+
+Estas herramientas me permiten **trabajar de forma más ágil, aprender constantemente** y adoptar buenas prácticas desde el diseño hasta la implementación.
+
+
 #### 📚 **En lo que estoy trabajando**  
 Estoy en constante exploración de nuevas tecnologías como **React**y **Nest.js**. Actualmente me enfoco en perfeccionar mis habilidades en **arquitectura de software** y en la creación de interfaces de usuario intuitivas.
 

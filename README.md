@@ -1,6 +1,7 @@
 👋 Hola, soy **Cristian Aguirre Guadamuz**  
 
-![Visitas](https://visitor-badge.glitch.me/badge?page_id=CristianAG13.visitor-badge)
+![Contador de visitas](https://hits.sh/github.com/CristianAG13/CristianAG13.svg?style=flat-square)
+
 Soy estudiante de **Ingeniería en Sistemas de Información** en la **Universidad Nacional de Costa Rica**, en la etapa final de mi formación. Me apasiona crear soluciones tecnológicas que generen impacto real, combinando mis habilidades en **desarrollo full-stack**, **diseño UI/UX** y **arquitectura de software**.
 
 Me destaco por ser una persona proactiva, orientada al detalle y con mentalidad de mejora continua. Me gusta trabajar en equipo, asumir nuevos retos y aplicar buenas prácticas de desarrollo desde el diseño hasta el despliegue.

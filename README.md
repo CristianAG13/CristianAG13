@@ -1,4 +1,4 @@
-#<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
  Hola, soy **Cristian Aguirre Guadamuz**
 
 ![Contador de visitas](https://hits.sh/github.com/CristianAG13/CristianAG13.svg?style=flat-square)

@@ -1,4 +1,8 @@
-</span>👋 Hola, soy **Cristian Aguirre Guadamuz**  
+</span><animated-image data-catalyst style="width: 35px;">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/...." data-target="animated-image.original">Link</a>
+  <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden>⧇</span>
+</animated-image>
+ Hola, soy **Cristian Aguirre Guadamuz**  
 
 ![Contador de visitas](https://hits.sh/github.com/CristianAG13/CristianAG13.svg?style=flat-square)
 

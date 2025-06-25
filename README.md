@@ -81,11 +81,6 @@ Sistema de gestión escolar con autenticación JWT, control de asistencias y gen
 Tecnologías: React, Tailwind, NestJS, MariaDB  
 🔗 [Frontend en Vercel](https://simadlsc.vercel.app) | [Backend en Railway](#) | [Repositorio GitHub](https://github.com/CristianAG13/SIMADLSC)| [Portafolio](https://portafolio-xi-gules.vercel.app)
 
-**📡 Lazarus** *(en desarrollo)*  
-Plataforma para reportar emergencias en tiempo real, integrando Flutter y backend escalable en Node.js/MariaDB.  
-Objetivo: mejorar la respuesta en crisis desde dispositivos móviles.
-
-
 ---
 
 

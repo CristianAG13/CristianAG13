@@ -89,18 +89,21 @@ Objetivo: mejorar la respuesta en crisis desde dispositivos móviles.
 ---
 
 
-### 📊 **Estadísticas de GitHub**  
+### 🚀 Estadísticas de GitHub
 
-![Cristian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CristianAG13&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
-
+![Cristian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CristianAG13&show_icons=true&count_private=true&hide=prs&theme=radical&hide_title=false&include_all_commits=true)
 
 ---
 
+### 🌐 Lenguajes Más Usados
 
-### 📌 **Lenguajes Más Usados**  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianAG13&langs_count=8&layout=compact&theme=radical&hide=html,css)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianAG13&langs_count=10&layout=compact&theme=radical)
+---
+
+### 🔥 Racha de Contribuciones
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CristianAG13&theme=radical)
 
 
 ---
